@@ -1,0 +1,6 @@
+[package]
+name = "rust_ch8_median"
+version = "0.1.0"
+authors = ["Tommaso Ricci <zorgatone@gmail.com>"]
+
+[dependencies]
